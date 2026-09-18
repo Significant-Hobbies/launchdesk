@@ -1,6 +1,8 @@
 # LaunchDesk
 
-An internal, local-first workspace for finding submission destinations, managing launches across products, and checking the links you actually receive. Original application code; no paid LaunchRepo content is bundled.
+A local-first workspace for finding submission destinations, managing launches across products, and checking the links you actually receive. Original application code; no paid LaunchRepo content is bundled.
+
+**Hosted version**: https://launchdesk.significanthobbies.com runs the browser-storage mode below — no account, no server state, no live backlink checking. Deploy with `pnpm install && pnpm run deploy` (Cloudflare Worker, static assets; see `wrangler.jsonc`).
 
 ## Start here
 
