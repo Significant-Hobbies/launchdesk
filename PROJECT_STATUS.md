@@ -1,6 +1,6 @@
 # LaunchDesk — project status
 
-**Live**: https://sassmaker.com/launchdesk/ (vendored bundle in Cloudflare Pages project `saas-maker-home`)
+**Live**: https://sassmaker.com/launchdesk — native catalog page in Cloudflare Pages project `saas-maker-home`, fed by `src/data/launchdesk.json` generated from this repo's `data/catalog.json`. The `web/` app is the local workspace; it is not deployed publicly.
 **Repo**: https://github.com/Significant-Hobbies/launchdesk
 
 ## What it is

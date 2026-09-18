@@ -8,51 +8,47 @@ follow-up in this repository's GitHub Issues.
 
 ## Project
 
-- **Product**: Public launch-destination workspace — a provenance-bearing
-  catalog of 966 submission destinations plus per-product queue/status/notes
-  tracking.
+- **Product**: A provenance-honest catalog of 966 launch destinations, plus a
+  local-first workspace app for per-product queue/status/notes tracking.
+- **Public surface**: a read-only catalog browser at
+  `https://sassmaker.com/launchdesk` — a native page in the SaaS Maker site
+  (Cloudflare Pages project `saas-maker-home`) rendered from
+  `apps/showcase/src/data/launchdesk.json`, which is generated from this repo's
+  `data/catalog.json`. The `web/` app itself is not deployed.
 - **Stack**: vanilla HTML/CSS/JS in `web/` (no build step), Python
   standard-library server (`server.py`) + SQLite for the local mode, catalog
   seed compiled into `web/seed.js` by `tools/build_catalog.py`.
-- **Production**: vendored static bundle inside the SaaS Maker site at
-  `https://sassmaker.com/launchdesk/` (Cloudflare Pages project
-  `saas-maker-home`). There is no LaunchDesk Worker; the earlier standalone
-  domain was retired on 2026-09-18 (issue #2).
 
 ## Commands
 
 ```bash
 pnpm test                 # python3 -m unittest discover -s tests -v
 pnpm run build:catalog    # regenerate seed/CSVs/single-file HTML from data/sources
-pnpm run sync:showcase    # copy web/ into ../saas-maker/apps/showcase/public/launchdesk/
+pnpm run sync:showcase    # regenerate showcase's src/data/launchdesk.json
 python3 server.py         # local SQLite mode (full features incl. link checker)
 ```
 
 ## Release flow
 
-1. Edit `web/` here; run `pnpm test` and `node --check web/app.js`.
-2. Run `pnpm run sync:showcase` (requires the `saas-maker` sibling checkout) to
-   refresh `apps/showcase/public/launchdesk/` — the vendored snapshot is
-   committed in saas-maker.
-3. Commit here, then commit + deploy from `saas-maker/apps/showcase`
-   (`pnpm run deploy`). Site headers, redirects and nav live in the saas-maker
-   repo, not here.
-4. `web/index.html` declares `https://sassmaker.com/launchdesk/` as canonical —
-   the Pages middleware's soft-404 guard requires it. Keep it in sync with the
-   real mount path if the app ever moves again.
+- **Catalog data**: edit `data/sources/` → `pnpm run build:catalog` →
+  `pnpm test` → `pnpm run sync:showcase` → commit here → commit + deploy from
+  `saas-maker/apps/showcase` (`pnpm run deploy`).
+- **`web/` app changes**: affect only the local app; verify with `pnpm test`
+  and `node --check web/app.js`. No deploy step exists for them.
+- The public page's presentation (filters, columns, styling) lives in
+  `saas-maker/apps/showcase/src/pages/launchdesk.astro`, not here.
 
 ## Architecture boundary
 
 - The app selects its backend at runtime: `127.0.0.1`/`localhost` → Python API
   (`/api/workspace`, `/api/verify`); any other hostname → browser
-  `localStorage`. **In production there is no API** — the deployed site is
-  browser-storage mode, same as the standalone `LaunchDesk.html` build.
+  `localStorage`.
 - `/api/verify` (live backlink check, `safeweb.py`) is intentionally not ported
   to Cloudflare (owner decision, issue #1). The button renders disabled
   off-localhost.
-- There is no server-side workspace state in production. Do not add D1/KV
-  persistence or accounts without a new owner decision — the README's
-  single-user security boundary still applies to the Python server.
+- There is no server-side workspace state anywhere. Do not add persistence or
+  accounts without a new owner decision — the README's single-user security
+  boundary still applies to the Python server.
 - `tools/build_catalog.py` regenerates `web/seed.js`, the CSVs, and the
   single-file `LaunchDesk.html` (gitignored build artifact) from
   `data/sources/`. `web/index.html`, `web/app.js`, `web/styles.css` are source.

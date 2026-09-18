@@ -2,7 +2,7 @@
 
 A local-first workspace for finding submission destinations, managing launches across products, and checking the links you actually receive. Original application code; no paid LaunchRepo content is bundled.
 
-**Hosted version**: https://sassmaker.com/launchdesk/ runs the browser-storage mode below — no account, no server state, no live backlink checking. The hosted copy is a vendored bundle inside the SaaS Maker site; refresh it with `pnpm run sync:showcase` and deploy from `saas-maker/apps/showcase`.
+**Hosted version**: https://sassmaker.com/launchdesk is a read-only catalog browser rendered natively in the SaaS Maker site from this repository's generated dataset (synced via `pnpm run sync:showcase`, deployed from `saas-maker/apps/showcase`). The full workspace app below — per-product queues, statuses, notes, and the link checker — runs locally.
 
 ## Start here
 
