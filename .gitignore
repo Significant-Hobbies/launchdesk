@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+data/*.sqlite3*
+data/last-good-workspace.json
+data/*.tmp
+launchdesk-backup-*.json
+.DS_Store
+LaunchDesk.html
+node_modules/
+.dev.vars

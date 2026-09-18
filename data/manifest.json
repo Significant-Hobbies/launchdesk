@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-09-18",
+  "source_rows": 1324,
+  "catalog_records": 1004,
+  "active_prospects": 966,
+  "excluded_records": 38,
+  "reported_dr_known": 737,
+  "reported_link_known": 633,
+  "submission_routes": 316,
+  "independently_verified_seed_rows": 0,
+  "metric_measurement_dates_known": 0,
+  "source_conflicts": 119,
+  "build_errors": []
+}

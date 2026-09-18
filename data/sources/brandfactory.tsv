@@ -1,0 +1,794 @@
+# Adapted factual fields from mezmer90/saas-directories, CC BY 4.0. Retrieved 2026-09-18.
+# url|reported_dr|reported_link(D/N/?)|reported_price(F=free,M=freemium,P=paid,blank=unknown)|name (optional)
+https://www.producthunt.com/|91|D||Product Hunt
+https://theresanaiforthat.com/|77|D||There's An AI For That
+https://news.ycombinator.com/|91|N||Hacker News
+https://www.reddit.com/|95|N||Reddit
+https://www.indiehackers.com/|80|N||Indie Hackers
+https://peerlist.io/|75|N||Peerlist
+https://betalist.com/|74|D||BetaList
+https://www.g2.com/|65|N||G2
+https://www.capterra.com/|90|N||Capterra
+https://www.getapp.com/|76|N||GetApp
+https://sourceforge.net/|92|N||SourceForge
+https://alternativeto.net/|79|D||AlternativeTo
+https://www.crunchbase.com/|89|N||Crunchbase
+https://www.saashub.com/|76|N||SaaSHub
+https://startupfa.me/|82|D||Startup Fame
+https://fazier.com/|80|N||Fazier
+https://www.uneed.best/||?||Uneed
+https://microlaunch.net/|58|D||Microlaunch
+https://dang.ai/|80|N||Dang AI
+https://twelve.tools/|79|D||Twelve Tools
+https://turbo0.com/|78|D||Turbo0
+https://findly.tools/|75|D||findly.tools
+https://www.toolpilot.ai/|76|N||Toolpilot
+https://www.futurepedia.io/|69|N|P|Futurepedia
+https://www.futuretools.io/|68|N||Future Tools
+https://www.toolify.ai/|72|D|P|Toolify.ai
+https://www.f6s.com/|73|N||F6S
+https://www.softwareadvice.com/|79|N||Software Advice
+https://www.trustradius.com/|76|N||TrustRadius
+https://devhunt.org/|59|N||DevHunt
+http://trustpilot.com|93|N||Trustpilot
+https://dev.to|90|D|M|DEV Community
+https://techcrunch.com|92|D||TechCrunch
+https://financesonline.com|82|D|M|FinancesOnline
+https://angel.co|87|N||AngelList
+https://startupstash.com|65|D||Startup Stash
+https://clutch.co/review|79|N||Clutch
+https://Crozdesk.com|55|D||Crozdesk
+https://boingboing.net|86|D||Boing Boing
+https://builtin.com/expert-contributors|82|D||Built In
+https://launched.lovable.app|88|D||Launched by Lovable
+https://peerpush.net|71|D||PeerPush
+https://www.cnet.com|92|N||CNET
+https://in.mashable.com/website-informati|92|N||Mashable
+https://www.theverge.com|92|N||The Verge
+https://e27.co|72|D||e27
+https://venturebeat.com/quest-posts|89|N||VentureBeat
+https://www.sideprojectors.com|69|N||SideProjectors
+https://www.buzzfeednews.com|92|N||BuzzFeed News
+https://hackernoon.com|82|D||HackerNoon
+https://stackshare.io|80|N|M|StackShare
+https://www.activesearchresults.com|78|D|M|Active Search Results
+https://readwrite.com/contributor-guideline|78|D||ReadWrite
+https://www.webwiki.com|78|D|M|Webwiki
+https://yourstory.com/companies|78|D||YourStory
+https://betapage.co|58|D||BetaPage
+https://www.launchingnext.com|50|D||Launching Next
+https://www.engadget.com/about/advertist|91|N||Engadget
+https://www.fastcompany.com|91|N||Fast Company
+https://in.pcmag.com|91|N||PCMag
+https://www.zdnet.com/blog|91|N||ZDNet
+https://www.saasworthy.com|72|D|M|SaaSWorthy
+https://arstechnica.com/contact-us|90|N||Ars Technica
+https://devpost.com/software|86|N||Devpost
+https://Geekwire.com|82|N||GeekWire
+https://business.velp.com|93|N||Yelp [source URL suspect]
+https://www.digitaltrends.com|89|N||Digital Trends
+https://deals.thenextweb.com|89|N||The Next Web
+https://www.brownbook.net|79|D|M|Brownbook
+https://aitoolsdirectory.com|67|D|M|AI Tools Directory
+https://www.businessinsider.in/contributors|92|N||Business Insider
+https://www.makeuseof.com/contributor|88|N||MakeUseOf
+https://www.exactseek.com|73|D|M|ExactSeek
+http://slashdot.org|82|N||Slashdot
+https://www.callupcontact.com|76|D|M|Callupcontact
+http://webrazzi.com|76|D|M|Webrazzi
+https://magicbox.tools|72|D||magicbox.tools
+https://www.eu-startups.com/directory/?'|68|D||EU-Startups
+http://softwaresuggest.com/vendors|65|N||SoftwareSuggest
+https://slate.com/pitch|89|N||Slate
+https://submitaitools.org|73|N||SubmitAITools
+https://www.tinylaunch.com|71|D||TinyLaunch
+https://appexchange.salesforce.com|88|N||AppExchange
+https://www.androidauthority.com|87|N||Android Authority
+https://www.infoworld.com|87|N||InfoWorld
+https://kotaku.com|87|N||Kotaku
+https://spiceworks.com|82|N||Spiceworks
+https://neeed.directory|73|D||Neeed Directory
+https://digg.com|85|N||Digg
+https://www.pocket-lint.com|85|N||Pocket-lint
+https://www.gartner.com/en/digital-marke|76|N||GetApp [source identity suspect]
+https://www.hotvsnot.com|71|D|M|HotVsNot
+https://www.starterstory.com/share|71|D||Starter Story
+https://www.lifehack.org|84|N||Lifehack
+https://marketplace.pipedrive.com|84|N||Pipedrive Marketplace
+https://auraplusplus.com|62|D||Aura++
+https://apps.shopify.com|91|N||Shopify App Store
+https://marketplace.stripe.com|91|N||Stripe App Marketplace
+https://appleinsider.com|83|N||AppleInsider
+https://list.ly|69|D||Listly
+https://seller.indiamart.com|82|N||IndiaMART
+https://www.pitchbook.com/sponsorship|82|N||PitchBook
+https://www.programmableweb.com|78|N||ProgrammableWeb
+https://launchigniter.com|74|N||LaunchIgniter
+https://www.submissionwebdirectory.com|64|D|M|Submission Web Directory
+https://www.agenthunter.io|60|D||AgentHunter
+https://www.remote.tools|48|D||Remote Tools
+https://www.techhive.com|81|N||TechHive
+https://toolsfine.com|67|D||ToolsFine
+https://startupbase.io|39|D||StartupBase
+https://rapidapi.com|80|N||RapidAPI
+https://www.scamadviser.com|80|N|F|ScamAdviser
+https://www.startupschool.org|80|N||YC Startup School
+http://techdirt.com/submitstory.php|80|N||Techdirt
+https://siliconangle.com|76|N||SiliconANGLE
+https://designernews.co|72|N||Designer News
+https://aiwith.me|66|D||AI With Me
+http://www.killerstartups.com|62|D||KillerStartups
+https://www.techinasia.com|75|N||Tech in Asia
+https://www.viesearch.com|65|D|M|Viesearch
+https://land-book.com|63|N||Land-book
+https://alltopstartups.com/submit-st|45|D||AllTopStartups
+https://airtable.com/marketplace|86|N||Airtable Marketplace
+https://www.fark.com|78|N||Fark
+https://alternative.me|73|N||Alternative.me
+https://cloudwards.net|73|N||Cloudwards
+https://www.softwareworld.co|73|N||SoftwareWorld
+https://www.addon.biz|64|D|M|Addon Biz
+https://sprout24.com|64|D|M|Sprout24
+https://www.serchen.com/get-listed|55|D||Serchen
+https://www.addictivetips.com/tip-us|73|N||AddictiveTips
+https://merchantmaverick.com|72|N||Merchant Maverick
+https://betakit.com|63|D||BetaKit
+https://aiagentsdirectory.com|43|D|M|AI Agents Directory
+https://morningbrew.com|76|N||Morning Brew
+https://www.pocketgamer.com/pages/cont|76|N||Pocket Gamer
+https://www.uplabs.com|76|N||UpLabs
+https://inc42.com/startup-submissic|72|N||Inc42
+https://growthhackers.com|68|N||GrowthHackers
+https://startupsavant.com|62|D||Startup Savant
+https://aitools.inc|67|N||AI Tools
+https://www.highrankdirectory.com|61|D|M|High Rank Directory
+https://bensbites.com|53|D|M|Ben's Bites
+https://eliteai.tools|45|D|M|EliteAI Tools
+https://www.moddb.com|74|N||ModDB
+https://toucharcade.com|74|N||TouchArcade
+https://open-launch.com|60|D||Open Launch
+https://public-apis.io|60|D||Public APIs
+https://tekpon.com|55|D||Tekpon
+https://www.saasgenius.com/free-listing|35|D||SaaS Genius
+https://technologyadvice.com|68|N||TechnologyAdvice
+https://www.startupranking.com|65|N||Startup Ranking
+https://acidtools.com|59|D||acidtools.com
+https://dir.org.vn|59|D|M|Sites Directory
+https://arcticstartup.com/become-a|55|D||ArcticStartup
+https://tools.robingood.com|55|D||Robin Good
+https://office.angi.com/app/join/registratio|72|N||Angi
+http://changelog.com/sponsor/pricing|72|N||Changelog
+https://pando.com|72|N||Pando
+https://www.siteiabber.com|72|N||SiteJabber [source URL suspect]
+https://lobste.rs|68|N||Lobsters
+https://www.springwise.com|68|N||Springwise
+https://tech.co/contact|68|N||Tech.co
+http://slant.co|67|N||Slant
+https://trustmrr.com|54|D||TrustMRR
+https://openhunts.com|50|D||OpenHunts
+https://firsto.co|57|D||Firsto
+https://www.superlaun.ch|57|D||Super Launch
+https://gust.com|70|N||Gust
+https://www.sitelike.org|70|N|F|SiteLike
+https://www.directorywebpromotion.com|56|D|M|Directory Web Promotion
+https://ideakiln.com|56|D||IdeaKiln
+https://www.nxgntools.com|56|D||NextGen Tools
+https://www.sitepromotion.directory|56|D|M|Site Promotion Directory
+https://www.weboworld.com|56|D|M|Weboworld
+https://bai.tools|48|D|M|BAI.tools
+https://www.feedough.com/submit-'|48|D||Feedough
+https://www.business2community.com/;|68|N||Business 2 Community
+https://startups.co.uk/contact-us|68|N||Startups UK
+https://tracxn.com|68|N||Tracxn
+https://selecthub.com|63|N||SelectHub
+https://library.phygital.plus|46|D|M|AI Library
+https://itcentralstation.com|62|N||IT Central Station
+https://startuptrusted.com|53|D||StartupTrusted
+https://findstack.com|48|D||Findstack
+https://www.launchvault.dev|45|D|M|LaunchVault
+https://navs.site|45|D|M|Navs Site
+https://aitoolsmarketer.com|37|D|M|AI Tools Marketer
+https://www.tinylaun.ch|52|D|M|TinyLaunch
+https://toools.design|52|D||Toools.design
+https://tinystartups.com|50|N||Tiny Startups
+https://openalternative.co|51|D||OpenAlternative
+https://shipybara.com|51|D||Shipybara
+https://aistartups.net|43|D|M|AI Startups
+https://www.americaninno.com/post-a-star|60|N||American Inno
+https://webdesignernews.com|60|N||Web Designer News
+https://10015.io|50|D|M|10015 Tools
+https://aitechviral.com|50|D||AI Tech Viral
+https://unitelist.com|50|D||Unite List
+https://www.therundown.ai|38|D|M|The Rundown
+https://pitchwall.co|59|N||PitchWall
+https://betabound.com|55|N||BetaBound
+https://spiff.store|33|D|M|Spiff.store
+https://www.merchantcircle.com/signup/#‹|62|N||MerchantCircle
+https://microacquire.com|62|N||MicroAcquire
+https://tech.eu|62|N||Tech.eu
+https://appalist.com|48|D||AppaList
+https://victrays.com|40|D|M|Victrays
+http://startuplift.com/submit-your-startup|32|D||StartupLift
+https://softwaresupp.com|42|D||SoftwareSupp
+https://bestofai.com|39|D|M|BestofAI
+https://productivity.directory|35|D||Productivity Directory
+https://cofounderslab.com|60|N||CoFoundersLab
+https://growjo.com|60|N||Growjo
+https://integrately.com|60|N||Integrately
+https://aitools.fyi|46|D||AI Tools FYI
+https://huzzler.so|46|D||Huzzler
+https://solopush.com|46|D||SoloPush
+https://confettisaas.com|30|D||ConfettiSaaS
+https://openfuture.ai|30|D|M|OpenFuture
+https://www.indie.deals|59|N||Indie Deals
+https://www.startupfa.st|59|N||Startup Fast
+https://index.co/companies?&|55|N||Index
+https://www.startus.cc|55|N||StartUs
+https://www.a1bookmarks.com|45|D|M|A1 Bookmarks
+https://devresourc.es|45|D||Dev Resources
+https://innmind.com|45|D||InnMind
+https://toolfio.com|45|D||Toolfio
+https://trylaunch.ai|45|D||Launch
+https://itqlick.com|40|D||ITQlick
+https://aitoolguru.com|29|D|M|AI Tool Guru
+https://alltop.com/feed|58|N||Alltop
+https://magnitt.com/startups|58|N||MAGNiTT
+https://vator.tv|58|N||Vator News
+https://productburst.com|44|D||ProductBurst
+https://weliketools.com|44|D||We Like Tools
+https://www.featuredcustomers.com|52|N||FeaturedCustomers
+https://foundrlist.com|51|D||FoundrList
+https://t5.dev|43|D|M|T5
+https://saaslist.com|38|D||SaaSList
+https://aitoolslist.io|27|D|M|AI Tools List
+https://startupslab.site|56|N||Startups Lab
+https://Sidebar.io|52|N||Sidebar
+https://www.nocode.tech/tools|48|N||NoCode Tech
+https://prefundia.com|42|D||Prefundia
+https://saaspo.com|42|D|M|SaaSpo
+https://techli.com/contact|42|D||Techli
+https://thehiveindex.com/submit|42|D||The Hive Index
+http://youngupstarts.com|42|D||Young Upstarts
+https://startupbuffer.com|38|D|M|Startup Buffer
+https://www.startupvalley.news/apply-now||?||StartupValley News [malformed source row]
+https://elpha.com|55|N||Elpha
+https://getlatka.com|55|N||Latka
+https://community.inside.com|55|N||Inside
+https://partners.local.com|55|N||Local
+https://www.valuer.ai|55|N||Valuer
+https://webdesign-inspiration.com|55|N||Webdesign Inspiration
+https://betterbuys.com|50|N||Better Buys
+https://awesome.tools|41|D||Awesome Tools
+https://www.microsaasexamples.com|41|D||Micro SaaS Examples
+https://nocodedevs.com|40|D||NoCodeDevs
+https://nocodefounders.com|40|D||No Code Founders
+https://allthatsaas.com|35|D||All That SaaS
+https://360quadrants.com|48|N||360Quadrants
+https://indiehub.best|39|D||IndieHub
+https://www.cuspera.com/vendors|52|N||Cuspera
+https://www.landingfolio.com|52|N||Landingfolio
+https://letsventure.com/join/startup|52|N||LetsVenture
+https://www.spoke.com|52|N||Spoke
+https://teachonline.ca/tools-trends/best-pr|52|N||TeachOnline
+https://thingtesting.com/submit-brand|52|N||Thingtesting
+https://akitaapp.com/directory|38|D||Akita SaaS Directory
+https://bulletin.so|38|D||Bulletin
+https://ctrlalt.cc|38|D|M|CTRL ALT
+https://devpages.io|38|D||Dev Pages
+https://saasbaba.com|38|D|F|SaaSBaba
+http://webtoolsweekly.com/submit|38|D||Web Tools Weekly
+https://aitooldetails.com|30|D|M|AI Tool Details
+https://efficient.app|32|D||Efficient App
+http://saasdirectory.com|32|D||SaaS Directory
+https://ainavbar.com|29|D|M|AI Navbar
+https://expify.ai|21|D|M|Expify
+https://makerthrive.com|50|N||MakerThrive
+https://www.saaspa.ge|36|D||Saaspa.ge
+https://www.paggu.com|32|D||Paggu
+https://startups.snapmunk.com|32|D||Snapmunk
+https://spotsaas.com|32|D||SpotSaaS
+https://www.techpluto.com/submit-a-star|32|D||TechPluto
+https://tools.so|28|D||Tools
+https://www.netted.net|45|N||Netted
+https://aifindy.com|35|D|M|AI Findy
+https://alternatives.co|35|D||Alternatives.co
+https://huntscreens.com|35|D|M|HuntScreens
+https://www.new-startups.com/pron|35|D||New Startups
+https://shipyardhq.dev|35|D||ShipYard HQ
+https://startupdope.com/submit-nev|35|D||Startup Dope
+http://startupeurope.net|35|D||Startup Europe
+https://www.startups-list.com|35|D||Startups List
+https://tinylaunchpad.com|35|D||TinyLaunchpad
+http://zumvu.com/make-profile.zvx|35|D||Zumvu
+http://appszoom.com|48|N||AppsZoom
+https://www.business-software.com/add-|48|N||Business Software
+https://wep.gov.in/knowledge-bank/mybl|48|N||Women Entrepreneurs Portal
+https://www.redferret.net/contact-us|48|N||Red Ferret
+https://saashunt.best|48|N||SaaSHunt
+https://startups.watch|48|N||Startups Watch
+https://startuplister.com|34|D|M|Startuplister
+https://saasmag.com|30|D||SaaS Mag
+https://ai.dreamthere.cn|26|D|M|AI Dreamthere
+https://navfolders.com|26|D|M|NavFolders
+https://startups.fm|33|D||Startups.fm
+https://discovercrm.com|28|D||Discover CRM
+https://anyfp.com|25|D|M|ANYFP
+https://startupxplore.com/en/startur|42|N||Startupxplore
+https://nextbigwhat.com|38|N||NextBigWhat
+https://www.directory-free.com|32|D|M|Directory-Free
+https://insanelyusefulwebsites.com|32|D||Insanely Useful Websites
+https://llmrelevance.com|32|D||LLM Relevance
+https://once.tools|32|D|F|Once.tools
+https://www.projecthatch.co/your-story|32|D||Project Hatch
+https://startupsoflondon.com|32|D||Startups of London
+https://www.superbcrew.com/about|32|D||Superbcrew
+https://toolhub.me|32|D||ToolHub
+https://toolsformakers.com|32|D||Tools for Makers
+https://www.allstartups.info|28|D||All Startups Info
+https://apprater.net/add|28|D||App Rater
+https://launched.io|28|D||Launched!
+http://thestartuppitch.com/post-a-pi|28|D||The Startup Pitch
+https://appagg.com/?hl=en|45|N||AppAgg
+https://breakoutlist.com|45|N||Breakout List
+https://fintechnews.sq/submit-your-fintec|45|N||Fintech News [source URL suspect]
+https://techbehemoths.com|45|N||TechBehemoths
+http://ventureradar.com/add_company|45|N||VentureRadar
+https://www.findyoursaas.com|31|D||FindYourSaaS
+https://kyi.ai|23|D|M|Kyi AI Directory
+https://ailisting.ai|30|D|M|AI Listing
+http://www.amfibi.com|30|D||Amfibi
+https://www.cipinet.com/suggest.php?ac|30|D||Cipinet
+https://growthiunkie.com|30|D||Growth Junkie [source URL suspect]
+https://insanelycooltools.com|30|D||Insanely Cool Tools
+https://make.rs|30|D|M|Make.rs
+https://promptzone.com|30|D|M|PromptZone
+http://startupguys.net/submit-startup|30|D||Startup Guys
+https://toolsnocode.com|30|D||Tools NoCode
+https://whattheai.tech|30|D|M|WhatTheAI
+https://indiegamereviewer.com/contact-ir|25|D||Indie Gamer Reviewer
+https://suitapp.de|25|D||SuitApp
+https://aidepot.co|22|D|M|AI Depot
+https://startuplist.ing|43|N||Startup Listing
+https://www.comparasoftware.com|38|N||ComparaSoftware
+https://www.crowdreviews.com|38|N||CrowdReviews
+https://www.bestofweb.site|35|N||Best of Web
+https://toolfolio.io|35|N||Toolfolio
+https://antdirectory.com|29|D|M|Ant Directory
+https://dailypings.com|29|D||Daily Pings
+https://www.textlinkdirectory.com|29|D|M|Text Link Directory
+https://americanstartups.com/share-your-s|25|D||American Startups
+http://startupinspire.com/startups|25|D||Startup Inspire
+https://lachief.io|21|D|M|Lachief.io
+https://www.appspy.com|42|N||AppSpy
+https://www.bestappsforkids.com/submit|42|N||Best Apps for Kids
+https://www.cabinetm.com/information/m|42|N||CabinetM
+https://getmakerlog.com|42|N||Makerlog
+http://www.mactrast.com/contact|42|N||MacTrast
+https://onlinegeniuses.com/marketplace-|42|N||Online Geniuses
+https://startuptracker.io/crowdsourcing|38|N||Startup Tracker
+https://affordhunt.com|28|D|M|AffordHunt
+https://crazyaboutstartups.com|28|D||Crazy About Startups
+http://www.discoverourtown.com/add|28|D||Discover Our Town
+https://fivetaco.com|28|D|M|FiveTaco
+https://www.futureofsaas.io/contributor-|28|D||Future of SaaS
+https://growthhacklist.com/startup-director|28|D||Growth Hack List
+https://hunt0.com|28|D||HUNT0
+https://itslaunched.com|28|D|M|ItsLaunched
+https://letterlist.com/submit|28|D||Letter List
+https://mrfreetools.com|28|D||Mr. Free Tools
+https://noteableai.com|28|D|M|NoteableAI
+https://onemilliondirectory.com|28|D|M|OneMillionDirectory
+https://openstartup.tm|28|D||Open Startup
+https://postmake.io/submit|28|D||Post Make
+https://saasprojects.com|28|D||SaaS Projects
+https://sbmarketingtools.com|28|D||Small Business Marketing Tools
+https://startupbeat.com/get-featured|28|D||StartupBeat
+https://startupresources.io|28|D||Startup Resources
+https://startuptile.com|28|D||StartupTile
+https://www.startupworld.com/conti|28|D||Startup World
+https://stellarlaunch.org|28|D||Stellar Launch
+https://www.submissionwebdirectory.cor|28|D||Submissions Web Directory [source URL suspect]
+http://techfaster.com/submit-your-c|28|D||TechFaster
+https://toolfinder.co|28|D||Tool Finder
+https://newaiforyou.com|20|D|M|NewAIForYou
+https://ailib.ru|27|D|M|ailib.ru
+https://www.aixuanfeng.com|27|D|M|AIxuanfeng
+https://startups.fyi|27|D||Startups.fyi
+http://techdirectory.io/get-listed|18|D||Tech Directory
+https://www.appolicious.com/contact-us|40|N||Appolicious
+https://insur-tech.com/submit|40|N||Insur-Tech
+https://www.discovercloud.com/become-|35|N||Discover Cloud
+http://theiphoneappreview.com|35|N||The iPhone App Review
+https://www.hot100.ai|26|D||hot100
+https://onemillionscreenshots.com|26|D|M|One Million Screenshots
+https://saassy-board.com|26|D||Saassy Board
+https://sideprojects.net|26|D|M|SideProjects
+https://submitjuice.com|22|D||Submit Juice
+https://rankinpublic.xyz|35|N||Rank in Public
+https://www.9sites.net/addurl.php|25|D||9 Sites
+https://aitool.ai|25|D||AiTool.ai
+https://www.beingguru.com/submit-startu|25|D||Being Guru
+https://findseotools.com|25|D||Find SEO Tools
+https://getworm.com/submit-startup|25|D||Get Worm
+https://www.growthkit.so|25|D||Growth Kit
+https://openstartuplist.com|25|D||Open Startup List
+https://www.romanianstartups.com|25|D||Romanian Startups
+https://saasplace.io|25|D||SaaS Place
+https://www.seewhatnewai.com|25|D|F|See What New AI
+https://startup88.com/category/star|25|D||Startup88
+https://www.startupcosts.co/signup|25|D||Startup Costs
+https://world.startupsgalaxy.com|25|D||Startup Galaxy
+https://startupstage.app|25|D||StartupStage
+http://techendo.com/beta|25|D||Techendo
+https://www.thestartupinc.com|25|D||The Startup Inc
+https://toolsalad.com/submit|25|D||Tool Salad
+https://toolscout.ai|25|D|M|ToolScout AI
+https://unboxingstartups.com/contact|25|D||Unboxing Startups
+http://w3catalog.com/submit.php|25|D||W3 Catalog
+https://bootstrappers.io|38|N||Bootstrappers
+https://www.indianyellowpages.com/post-|38|N||Indian Yellow Pages
+http://younoodle.com|38|N||YouNoodle
+https://stashli.st|24|D|M|stashli.st
+https://webapprater.com|20|D||Web App Rater
+https://www.androidappsreview.com|32|N||Android Apps Review
+https://tipseason.com|23|D|M|Tip Season
+https://rankyourai.com|36|N||RankYourAI
+https://600.tools|22|D|M|600.tools
+http://feedmystartup.com/submit-your-st|22|D||Feed My Startup
+https://findcool.tools|22|D||Find Cool Tools
+https://first100users.com|22|D||First 100 Users
+https://geekopedia.me/write-for-us|22|D||Geekopedia
+https://indiehustles.com|22|D||Indie Hustles
+https://karostartup.com/advertise-with-us|22|D||KaroStartup
+https://kitdb.app|22|D||KitDB
+https://www.microstartups.co|22|D||MicroStartups
+http://nextbigproduct.net|22|D||Next Big Product
+https://saasalliance.io|22|D||SaaS Alliance
+https://sick.tools|22|D||Sick Tools
+https://spsfeed.com|22|D||SpsFeed
+https://www.startupbutton.com|22|D||Startup Button
+http://startupcollections.com|22|D||Startup Collections
+https://startupfounders.com.au|22|D||Startup Founders
+http://startupwizz.com/submit-a-startup|22|D||Startup Wizz
+https://stateoftech.net|22|D||State of Tech
+http://theapplegoogle.com|22|D||The Apple Google
+https://theindianpreneur.com/advertise-|22|D||The Indianpreneur
+http://thestartupjournal.com/submit|22|D||The Startup Journal
+https://thetechindex.com|22|D||The Tech Index
+https://thewarehouse.ai|22|D||The AI Warehouse
+http://trendystartups.com/register|22|D||Trendy Startups
+http://webwide.io/forums/project-showca|22|D||Webwide
+https://whatisaitools.com|22|D|M|WhatIsAITools
+https://www.whatsnewonthenet.com/conti|22|D||What's New on the Net
+https://apps400.com/submit-your-application-fol|18|D||Apps 400
+https://altern.ai/||?||Altern AI
+https://coindoo.com/submit-press-releast|35|N||Coindoo
+https://www.collaborizm.com|35|N||Collaborizm
+https://indiehackerstacks.com|35|N||IndieHackerStacks
+https://press.farm|35|N||PressFarm
+http://similarsitesearch.com/webmaster|35|N||Similar Site Search
+http://www.tapscape.com/submit-app-re|35|N||TapScape
+https://techboard.com.au|35|N||TechBoard
+https://thefascination.com|35|N||The Fascination
+https://www.thetechblock.com/contact-t|35|N||The Tech Block
+https://yourstack.com|35|N||YourStack
+https://buildvoyage.com|27|N||BuildVoyage
+https://madewithbolt.com|21|D||Made with Bolt
+https://marketingdb.live|21|D||MarketingDB
+https://1000.tools|34|N||1000.tools
+https://proofstories.io/directory|34|N||Proofstories
+https://airepo.io|20|D||AI Repo
+https://appslisto.com/submit-your-app|20|D||AppsListo
+https://bufferapps.com|20|D||BufferApps
+https://www.coopcommerce.com|20|D||Coop Commerce
+https://www.ebool.com/submit|20|D||EBool
+https://featuredtool.com|20|D|M|FeaturedTool
+https://hopps.io|20|D||Hopps
+https://owwly.com/products/all|20|D||Owwly
+https://projecthunt.me|20|D|F|ProjectHunt.me
+https://saascommunity.com|20|D||SaaS Community
+https://saasrefs.com|20|D||SaaSRefs
+https://topnocode.tools|20|D||Top No Code Tools
+https://euroalternative.co|33|N||EuroAlternative
+https://toollist.ai|19|D||Toollist
+https://10words.io|15|D||10 Words
+https://howbrandsarebuilt.com/submit|32|N||How Brands Are Built
+https://presshunt.co|32|N||Press Hunt
+https://www.smartmoneymatch.com/busin|32|N||SmartMoneyMatch
+https://www.unita.co|32|N||Unita
+https://aixcollection.com|18|D||AIx Collection
+https://appiod.com/submit-app-for-revien|18|D||Appiod
+https://www.astrogrowth.com|18|D||Astro Growth
+https://biqstartups.co/overview/sub|18|D||Big Startups [source URL suspect]
+https://creator.supply|18|D||Creator Supply
+https://dirs.cc|18|D|F|Dirs.cc
+https://findingstartups.com/startups|18|D||Finding Startups
+https://fuelup.co/add|18|D||Fuel Up
+https://hackerspad.net|18|D||Hackerspad
+https://www.howtobuysaas.com|18|D||How to Buy SaaS
+https://www.indiestack.co/contribute|18|D||IndieStack
+https://lunadio.com|18|D||Lunadio
+https://makerlead.com|18|D||Maker Lead
+https://oyestartups.com/contact|18|D||Oye Startups
+https://pressnotify.com|18|D||Press Notify
+https://www.promoteproiect.com|18|D||Promote Project [source URL suspect]
+https://Saasified.co|18|D||SaaSified
+https://saasinsider.com|18|D||SaaS Insider
+https://stacklist.com|18|D||StackList
+https://starticorn.com/submit|18|D||Starticorn
+https://www.startupdeals.tech|18|D||Startup Deals
+https://www.startupiohn.com/submit-startu|18|D||Startup John [source URL suspect]
+http://startuproulette.com|18|D||Startup Roulette
+http://www.startupsea.com/p/submi|18|D||Startup Sea
+https://www.startuptabs.com|18|D||Startup Tabs
+https://startupwonders.com/submit/star|18|D||Startup Wonders
+https://storyfied.com/get-featured|18|D||Storyfied
+https://www.surges.co|18|D||Surges
+https://taalk.com/submit-startup|18|D||Taalk
+https://thatappshow.com|18|D||That App Show
+https://thenocodecrew.com|18|D||TheNoCodeCrew
+http://thepopularapps.com/submit-app|18|D||The Popular Apps
+http://thestartupvideos.com/submit-|18|D||The Startup Videos
+https://www.viralindiandiary.com/submit|18|D||Viral Indian Diary
+http://web3canvas.com/submit|18|D||Web3 Canvas
+https://theresanai.com/||?||There's An AI
+https://resource.fyi|30|N||Resource FYI
+https://awesomeindie.com|26|N||AwesomeIndie
+https://saasbison.com|16|D||SaaSBison
+https://www.submithunt.com|29|N||SubmitHunt
+https://alphadigits.com|15|D||Alpha Digits
+http://appsmamma.com/submit-your-app|15|D||Apps Mamma
+https://appsmirror.com/submit-your-app-fol|15|D||Apps Mirror
+https://appsolite.com|15|D||Appsolite
+https://appsthunder.com/submit-your-app|15|D||Apps Thunder
+http://askyourandroid.com|15|D||Ask Your Android
+https://bloombuzz.in/joinus|15|D||Bloombuzz
+https://emojilaunch.com/submit|15|D||Emoji Launch
+https://growingpage.com|15|D||Growing Page
+https://inboxworld.io|15|D||Inbox World
+https://indietool.io|15|D||IndieTool
+https://www.joinly.xyz|15|D||Joinly
+https://makermove.com|15|D||MakerMove
+https://mystartuptool.com|15|D||My Startup Tool
+https://neede.co|15|D||Neede
+https://profithunt.co|15|D||Profit Hunt
+https://promotehour.com|15|D||Promotehour
+http://readysaasgo.com|15|D||Ready SaaS Go
+https://scoutforge.net|15|D|F|ScoutForge
+https://www.spacebandits.io/startups|15|D||Space Bandits
+https://spectacle.is/submit|15|D||Spectacle
+https://www.toshilist.com|15|D||Toshilist
+https://under1000mrr.tools|15|D||Under 1000 MRR
+https://virtualmojito.com|15|D||Virtual Mojito
+https://www.appysmarts.com|28|N||Appy Smarts
+https://madewithlovable.com|28|N||Made with Lovable
+https://justgotfound.com|27|N||Justgotfound
+http://www.appreviewcentral.net/app-sub|22|N||App Review Central
+https://freeble.site|12|D||Freeble
+https://www.launchvibe.app|12|D||Launch Vibe
+https://startuups.com|12|D||Startuups
+http://coinscribble.com/contact|25|N||Coin Scribble
+https://www.topionetworks.com/#new-sitt|25|N||Topio Networks
+https://goodfirms.co/||?||GoodFirms
+https://www.promoteproject.com|18|D||PromoteProject
+https://toolkitly.com/||?||Toolkitly
+https://top10.now|23|N||Top10
+https://www.appvita.com|22|N||Appvita
+https://jonapr.com|22|N||Jona
+https://www.startupbenchmarks.com|22|N||Startup Benchmarks
+http://thetechmap.com/Account/Login|22|N||The Tech Map
+https://sumodir.com|7|D||Sumodir
+https://showmebest.ai/||?||ShowMeBestAI
+https://startupblink.com/||?||StartupBlink
+https://topai.tools/||?||TopAI.tools
+https://ai-sites.net/||?||AI Sites Net
+https://ai-tools.directory/||?||AI-Tools Directory
+https://aiagentstore.ai/||?||AI Agent Store
+https://aifordevelopers.org/||?||AI For Developers
+https://aihubs.ai/||?||AI Hubs
+https://allthingsai.com/||?||All Things AI
+https://apilist.fun/||?||API List
+https://appradar.com/||?||AppRadar
+https://awesome.re/||?||Awesome [source badge, not a submission]
+https://basedtools.ai/||?||Based Tools
+https://best-ai-tools.org/||?||Best AI Tools
+https://bestofai.io/||?||Best of AI
+https://builtwith.com/||?||BuiltWith
+https://byblosai.com/||?||Byblos AI
+https://choosetheai.com/||?||ChooseTheAI
+https://demos.co/||?||Demos.co
+https://dynamite-ai.com/||?||Dynamite AI
+https://everydev.ai/||?||EveryDev.ai
+https://findyouragent.ai/||?||Find Your Agent
+https://founderpath.com/||?||Founderpath
+https://foundr.ai/||?||Foundr
+https://freeaitool.ai/||?||Free AI Tool
+https://genpage.ai/||?||GenPage
+https://godofprompt.ai/||?||God of Prompt
+https://groupify.ai/||?||GroupifyAI
+https://havnai.com/||?||Havnai
+https://indiedev.tools/||?||Indiedev
+https://indieproducts.io/||?||IndieProducts.io
+https://insidr.ai/||?||Insidr AI Directory
+https://junia.ai/||?||Junia
+https://makelanding.ai/||?||MakeLanding
+https://navtools.ai/||?||NavTools AI
+https://opensaas.directory/||?||OpenSaasDirectory
+https://opentools.ai/||?||OpenTools
+https://orbic.ai/||?||Orbic AI
+https://platformsdirectory.com/||?||PlatformsDirectory
+https://poper.ai/||?||Poper
+https://poweredbyai.app/||?||PoweredbyAI
+https://saaspromo.com/||?||SaaSPromo
+https://salestoolsai.top/||?||Sales Tools AI
+https://selljam.ai/||?||Selljam
+https://simple.ink/||?||Simple.ink
+https://stackviv.ai/||?||Stackviv
+https://stratup.ai/||?||Stratup
+https://taprefer.com/||?||TapRefer
+https://techjury.net/||?||Techjury
+https://thatsmy.ai/||?||ThatsMyAI
+https://toolshubai.com/||?||Tools Hub AI
+https://toptools.ai/||?||Top Tools
+https://trustedby.ai/||?||TrustedBy
+https://trustlist.ai/||?||TrustList
+https://launch.cab|1|D||Launch.cab
+https://versily.com|1|D||Versily
+https://ai-bot.cn/||?||AI Bot
+https://aidirectori.es/||?||AI Directories
+https://allinai.tools/||?||AllinAI
+https://dofollow.tools/||?||Dofollow Tools
+https://getlisted.ai/||?||GetListed
+https://mossai.org/||?||Mossai
+https://plausible.io/||?||Plausible
+https://priceof.ai/||?||Priceof.ai
+https://whatsthebigdata.com/||?||What's the Big Data
+https://addaidirectory.com/||?||Add AI Directory
+https://adsby.co/||?||Adsby
+https://aeotools.space/||?||AEO Tools
+https://aiagentsbase.com/||?||AI Agents Base
+https://aiagentslist.com/||?||AI Agents List
+https://aiagentslive.com/||?||AI Agents Live
+https://aiagentsverse.com/||?||AI Agents Verse
+https://aichief.com/||?||AIChief
+https://aicorner.net/||?||AI Corner
+https://aidir.wiki/||?||AIDir
+https://aidirectory.wiki/||?||AI Directory
+https://aidirs.best/||?||AiDirs
+https://aiex.me/||?||AI Tools Explore
+https://aifordevelopers.io/||?||AI for Developers
+https://aiheadshothub.com/||?||AI Headshot Hub
+https://aihuntlist.com/||?||AI Hunt List
+https://aihustle.tools/||?||AI Hustle
+https://aimatch.pro/||?||AI Match Pro
+https://ainave.com/||?||ainave
+https://aiparabellum.com/||?||AI Parabellum
+https://aipediahub.com/||?||AI Pedia Hub
+https://aipulse.fyi/||?||AI Pulse
+https://airesource.pro/||?||AI Resource Pro
+https://airespo.com/||?||AI Respo
+https://aiscout.net/||?||AI Scout
+https://aisupersmart.com/||?||AI Super Smart
+https://aitoolex.com/||?||AI Toolex
+https://aitoollist.org/||?||AI Tool List
+https://aitools.love/||?||AI Tools Love
+https://aitoolsarena.com/||?||AI Tools Arena
+https://aitoolsaver.com/||?||AI Tools Saver
+https://aitoolscorner.com/||?||AI Tools Corner
+https://aitoolsforme.com/||?||AI Tools for Me
+https://aitoolshunt.com/||?||AI Tools Hunt
+https://aitoolsmagazine.com/||?||AI Tools Magazine
+https://aitoolspin.com/||?||AI Tools Pin
+https://aitooltrek.com/||?||AI Tool Trek
+https://aitoolz.net/||?||AI Toolz
+https://aitoolzdir.com/||?||AI Toolz Dir
+https://aitoptools.com/||?||AI Top Tools
+https://aixyz.co/||?||AIxyz
+https://allaitools.tech/||?||All AI Tools
+https://alltheaitools.com/||?||All the AI Tools
+https://angellist.com/||?||AngelList
+https://applauncher.io/||?||AppLauncher
+https://askaiforit.com/||?||Ask AI for It
+https://astronuts.io/||?||Astronuts
+https://b2bstack.com/||?||B2B Stack
+https://b2bstack.com.br/||?||B2B Stack Brazil
+https://backl.io/||?||Backl
+https://backlinkgpt.com/||?||BacklinkGPT
+https://beyondaitools.com/||?||Beyond AI Tools
+https://boilermat.es/||?||Boilermates
+https://businessinsider.com/||?||Business Insider
+https://byedispute.com/||?||ByeDispute
+https://charmui.com/||?||CharmUI
+https://chromekit.dev/||?||ChromeKit
+https://claudepro.directory/||?||ClaudePro.directory
+https://clobbr.app/||?||Clobbr
+https://cloudbooklet.net/||?||Cloudbooklet
+https://cocomail.io/||?||Cocomail
+https://codesnap.dev/||?||CodeSnap
+https://coglist.com/||?||CogList
+https://colorsandfonts.com/||?||Colors and Fonts
+https://competitoresearch.com/||?||Competitor Research
+https://coolors.co/||?||Coolors
+https://coolstartups.io/||?||Cool Startups
+https://coolstartups.xyz/||?||Cool Startups XYZ
+https://creatica.app/||?||Creatica
+https://daito.io/||?||Daito Authenticator
+https://dashcam.io/||?||Dashcam
+https://datalook.io/||?||DataLook
+https://deeplaunch.io/||?||Deeplaunch
+https://desifounder.com/||?||Desifounder
+https://designbuddy.net/||?||Design Buddy
+https://detachless.com/||?||Detachless
+https://direct2app.com/||?||Direct2App
+https://evolmagazine.com/||?||Evol Magazine
+https://faqpopup.com/||?||FAQ Popup
+https://fastfluttertemplate.com/||?||Fast Flutter Template
+https://fastlaunch.io/||?||FastLaunch
+https://findanaitools.com/||?||Find an AI Tool
+https://findmyaitool.com/||?||Find My AI Tool
+https://firstocontact.com/||?||Firsto Contact
+https://flows.sh/||?||Flows
+https://flowtools.co/||?||Flowtools
+https://foundr.com/||?||Foundr
+https://futureaiguide.com/||?||Future AI Guide
+https://futurepedia.wiki/||?||Futurepedia Wiki
+https://gdprvalidator.eu/||?||GDPRValidator
+
+https://grabon.in/||?|?|grabon.in
+https://heyaiworld.com/||?|?|heyaiworld.com
+https://intelligenttools.co/||?|?|intelligenttools.co
+https://justhunt.co/||?|?|justhunt.co
+https://kickproduct.com/||?|?|kickproduct.com
+https://labstartups.com/||?|?|labstartups.com
+https://launchpadindia.co/||?|?|launchpadindia.co
+https://linezine.com/||?|?|linezine.com
+https://listyourtool.com/||?|?|listyourtool.com
+https://makerlist.io/||?|?|makerlist.io
+https://marketingtoolslist.com/||?|?|marketingtoolslist.com
+https://mostpopularaitools.com/||?|?|mostpopularaitools.com
+https://neonrev.com/||?|?|neonrev.com
+https://nextjsdirectory.com/||?|?|nextjsdirectory.com
+https://nocodelist.co/||?|?|nocodelist.co
+https://opensaasdirectory.com/||?|?|opensaasdirectory.com
+https://quicklist.ing/||?|?|quicklist.ing
+https://searchaidirectory.com/||?|?|searchaidirectory.com
+https://softwareselect.com/||?|?|softwareselect.com
+https://softwareselecthq.com/||?|?|softwareselecthq.com
+https://sololaunches.com/||?|?|sololaunches.com
+https://stackmention.com/||?|?|stackmention.com
+https://startuplist.in/||?|?|startuplist.in
+https://startuptoolslist.com/||?|?|startuptoolslist.com
+https://thankjohn.com/||?|?|thankjohn.com
+https://theailibrary.co/||?|?|theailibrary.co
+https://thenextaitool.com/||?|?|thenextaitool.com
+https://tinylaunch.xyz/||?|?|tinylaunch.xyz
+https://tooldirs.com/||?|?|tooldirs.com
+https://toolfinder.wiki/||?|?|toolfinder.wiki
+https://toolpasta.com/||?|?|toolpasta.com
+https://toolwave.io/||?|?|toolwave.io
+https://trillionagent.com/||?|?|trillionagent.com
+https://uno.directory/||?|?|uno.directory
+https://webspot.app/||?|?|webspot.app
+https://wellfound.com/||?|?|wellfound.com
+https://yaatd.com/||?|?|yaatd.com
+https://addurl.nu/||?|?|addurl.nu
+https://aidirectory.org/||?|?|aidirectory.org
+https://aistage.net/||?|?|aistage.net
+https://bestaibrands.com/||?|?|bestaibrands.com
+https://builtbyme.io/||?|?|builtbyme.io
+https://code.market/||?|?|code.market
+https://feedmyapp.com/||?|?|feedmyapp.com
+https://freeble.in/||?|?|freeble.in
+https://indietools.app/||?|?|indietools.app
+https://launch-list.org/||?|?|launch-list.org
+https://linkbazaar.app/||?|?|linkbazaar.app
+https://microfounder.com/||?|?|microfounder.com
+https://nextaitool.com/||?|?|nextaitool.com
+https://podcastguests.com/||?|?|podcastguests.com
+https://productcool.com/||?|?|productcool.com
+https://resellerratings.com/||?|?|resellerratings.com
+https://sitejabber.com/||?|?|sitejabber.com
+https://spreadtheworld.net/||?|?|spreadtheworld.net
+https://startupindex.com/||?|?|startupindex.com
+https://startupname.com/||?|?|startupname.com
+https://womenmake.com/||?|?|womenmake.com
