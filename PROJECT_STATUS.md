@@ -1,6 +1,6 @@
 # LaunchDesk — project status
 
-**Live**: https://launchdesk.significanthobbies.com (Cloudflare Worker `launchdesk`, static assets only)
+**Live**: https://sassmaker.com/launchdesk/ (vendored bundle in Cloudflare Pages project `saas-maker-home`)
 **Repo**: https://github.com/Significant-Hobbies/launchdesk
 
 ## What it is
@@ -43,5 +43,6 @@ metrics are source-reported, not fresh measurements. Regenerate with
 
 ## Timeline
 
-- 2026-09-18 — Imported local package; released publicly on Cloudflare
-  Workers at launchdesk.significanthobbies.com (issue #1).
+- 2026-09-18 — Imported local package; briefly live on a standalone
+  Worker, then moved under the SaaS Maker site per owner decision
+  (issues #1–#2).
