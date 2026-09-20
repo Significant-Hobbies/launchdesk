@@ -1,5 +1,10 @@
 # LaunchDesk — project status
 
+**Lifecycle**: Absorbed into SaaS Maker on 2026-09-20. No standalone product,
+listing or roadmap remains. This checkout is retained for dataset refreshes and
+historical provenance; future work belongs to SaaS Maker. The implementation
+inventory below is historical, not a commitment to maintain a separate app.
+
 **Live**: https://sassmaker.com/launchdesk — native catalog page in Cloudflare Pages project `saas-maker-home`, fed by `src/data/launchdesk.json` generated from this repo's `data/catalog.json`. The `web/` app is the local workspace; it is not deployed publicly.
 **Repo**: https://github.com/Significant-Hobbies/launchdesk
 
