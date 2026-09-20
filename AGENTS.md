@@ -2,9 +2,12 @@
 
 ## Repository operating rules
 
-This repository is independently operable. Protect production stability, keep
-changes scoped, verify work with repo-local checks, and record durable
-follow-up in this repository's GitHub Issues.
+LaunchDesk was absorbed into SaaS Maker by owner decision on 2026-09-20.
+Do not treat it as an active standalone product or create an independent roadmap.
+Retain this checkout as the dataset source and historical implementation used by
+SaaS Maker's /launchdesk feature. Track any future work in SaaS Maker's GitHub
+Issues. Protect production stability, keep changes scoped, and verify source
+changes with repo-local checks.
 
 ## Project
 
@@ -62,8 +65,8 @@ non-localhost hostname that resolves to 127.0.0.1, e.g.
 
 ## Work tracking
 
-- GitHub Issues are the operational work queue:
-  https://github.com/Significant-Hobbies/launchdesk/issues
+- SaaS Maker owns the operational work queue:
+  https://github.com/sass-maker/saas-maker/issues
 - Keep `PROJECT_STATUS.md` limited to current and shipped product truth.
 - Catalog data has its own licensing (`data/sources/README.md`, `licenses/`).
   Preserve attribution and the unknown-vs-zero DR semantics described in the

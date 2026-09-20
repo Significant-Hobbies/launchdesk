@@ -1,5 +1,11 @@
 # LaunchDesk
 
+> Absorbed into [SaaS Maker](https://sassmaker.com/launchdesk). LaunchDesk is
+> no longer a standalone product or active roadmap (owner decision, 2026-09-20).
+> This repository remains only as the catalog source, provenance and historical
+> local implementation. Track future work in
+> [SaaS Maker](https://github.com/sass-maker/saas-maker/issues).
+
 A local-first workspace for finding submission destinations, managing launches across products, and checking the links you actually receive. Original application code; no paid LaunchRepo content is bundled.
 
 **Hosted version**: https://sassmaker.com/launchdesk is a read-only catalog browser rendered natively in the SaaS Maker site from this repository's generated dataset (synced via `pnpm run sync:showcase`, deployed from `saas-maker/apps/showcase`). The full workspace app below — per-product queues, statuses, notes, and the link checker — runs locally.
